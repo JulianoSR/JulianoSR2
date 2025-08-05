@@ -100,6 +100,11 @@ atendimento-autismo/
           services/
           App.jsx
    README.md
-   package.json 
+   package.json
+
+---
+
+#Autor
+Juliano Santana Rocha
 
 
