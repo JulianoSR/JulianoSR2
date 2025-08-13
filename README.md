@@ -83,28 +83,3 @@ Protótipo sendo desenvolvido no Figma para demonstrar a experiência de uso
 
 ---
 
-## Estrutura de Pastas (exemplo simplificado)
-
-```bash
-atendimento-autismo/
-   backend/
-      controllers/
-      models/
-      routes/
-      app.js
-      .end
-   frontend/
-      src/
-          componets/
-          pages/
-          services/
-          App.jsx
-   README.md
-   package.json
-
----
-
-#Autor
-Juliano Santana Rocha
-
-
